@@ -6,3 +6,6 @@ https://docs.google.com/spreadsheets/d/1MGVBJ8HkRbCnU6EQASjJKCqQE8BWng4qgL0n3vCV
 
 # link to 90 DSA REVISION questions
 https://codekickstart.org/Arsh_Sheet.html
+
+# link to youtube video 
+https://www.youtube.com/watch?v=yTujhdqgCzo
